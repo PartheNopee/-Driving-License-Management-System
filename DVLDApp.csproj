@@ -486,12 +486,6 @@
     <None Include="Resources\boy.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\clsBusinessLayerDVLD\clsBusinessLayerDVLD.csproj">
-      <Project>{a9af9df3-e0bb-4d40-81e2-37a15cbab2a5}</Project>
-      <Name>clsBusinessLayerDVLD</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Manage People.png" />
   </ItemGroup>
   <ItemGroup>
@@ -599,6 +593,12 @@
     <None Include="Resources\New Application 64.png" />
     <None Include="Resources\Manage Applications 64.png" />
     <None Include="Resources\Test Type 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="clsBusinessLayerDVLD\clsBusinessLayerDVLD.csproj">
+      <Project>{a9af9df3-e0bb-4d40-81e2-37a15cbab2a5}</Project>
+      <Name>clsBusinessLayerDVLD</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

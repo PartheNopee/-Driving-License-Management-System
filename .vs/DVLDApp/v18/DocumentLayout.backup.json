@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01C96D26-D436-4DA8-8592-C8963816CA05}|DataAccessLayer\\DataAccessLayer.csproj|a:\\dev\\visualstudio\\dvld\\dvldapp\\dataaccesslayer\\clsclasslicensedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C96D26-D436-4DA8-8592-C8963816CA05}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clsclasslicensedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C96D26-D436-4DA8-8592-C8963816CA05}|DataAccessLayer\\DataAccessLayer.csproj|a:\\dev\\visualstudio\\dvld\\dvldapp\\dataaccesslayer\\clsapptypesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C96D26-D436-4DA8-8592-C8963816CA05}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clsapptypesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DEF20B59-9D1A-480C-9921-E633434AD9F4}|DVLDApp.csproj|a:\\dev\\visualstudio\\dvld\\dvldapp\\applications\\localdrivinglicenseapplication\\managelocalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEF20B59-9D1A-480C-9921-E633434AD9F4}|DVLDApp.csproj|solutionrelative:applications\\localdrivinglicenseapplication\\managelocalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF20B59-9D1A-480C-9921-E633434AD9F4}|DVLDApp.csproj|a:\\dev\\visualstudio\\dvld\\dvldapp\\applications\\localdrivinglicenseapplication\\managelocalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DEF20B59-9D1A-480C-9921-E633434AD9F4}|DVLDApp.csproj|A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\applications\\localdrivinglicenseapplication\\managelocalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DEF20B59-9D1A-480C-9921-E633434AD9F4}|DVLDApp.csproj|solutionrelative:applications\\localdrivinglicenseapplication\\managelocalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "clsClassLicenseDAL.cs",
+              "DocumentMoniker": "A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\DataAccessLayer\\clsClassLicenseDAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\clsClassLicenseDAL.cs",
+              "ToolTip": "A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\DataAccessLayer\\clsClassLicenseDAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\clsClassLicenseDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T22:13:19.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsAppTypesDAL.cs",
+              "DocumentMoniker": "A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\DataAccessLayer\\clsAppTypesDAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\clsAppTypesDAL.cs",
+              "ToolTip": "A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\DataAccessLayer\\clsAppTypesDAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\clsAppTypesDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T22:13:18.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ManageLocalApplications.cs",
               "DocumentMoniker": "A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\Applications\\LocalDrivingLicenseApplication\\ManageLocalApplications.cs",
               "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplication\\ManageLocalApplications.cs",
@@ -43,15 +77,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ManageLocalApplications.cs [Design]",
               "DocumentMoniker": "A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\Applications\\LocalDrivingLicenseApplication\\ManageLocalApplications.cs",
               "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplication\\ManageLocalApplications.cs",
               "ToolTip": "A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\Applications\\LocalDrivingLicenseApplication\\ManageLocalApplications.cs [Design]",
               "RelativeToolTip": "Applications\\LocalDrivingLicenseApplication\\ManageLocalApplications.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T22:14:50.503Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-08T22:14:50.503Z"
             }
           ]
         }
