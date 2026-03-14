@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DEF20B59-9D1A-480C-9921-E633434AD9F4}|DVLDApp.csproj|solutionrelative:applications\\localdrivinglicenseapplication\\managelocalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF20B59-9D1A-480C-9921-E633434AD9F4}|DVLDApp.csproj|a:\\dev\\visualstudio\\dvld\\dvldapp\\applications\\localdrivinglicenseapplication\\managelocalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DEF20B59-9D1A-480C-9921-E633434AD9F4}|DVLDApp.csproj|A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\applications\\localdrivinglicenseapplication\\managelocalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DEF20B59-9D1A-480C-9921-E633434AD9F4}|DVLDApp.csproj|solutionrelative:applications\\localdrivinglicenseapplication\\managelocalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -50,8 +50,7 @@
               "ToolTip": "A:\\Dev\\VisualStudio\\DVLD\\DVLDApp\\Applications\\LocalDrivingLicenseApplication\\ManageLocalApplications.cs [Design]",
               "RelativeToolTip": "Applications\\LocalDrivingLicenseApplication\\ManageLocalApplications.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T22:14:50.503Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-08T22:14:50.503Z"
             }
           ]
         }
